@@ -27,7 +27,7 @@
 ### About The Project
 
 Project is realisation of required project on Databases course 2021 / 22 at AGH UST.
-Project requirements are specified here TODO (only PL version).
+Project requirements are specified here <a href="https://github.com/psp515/HealthyCowDatabase/blob/main/Requirements.pdf">Requirements.pdf</a> (only PL version).
 
 Summarizing.
 
@@ -36,7 +36,8 @@ Also restaurant provides 'special' menu avaliable in ceratain days. Btw menu is 
 
 We splitted our job equaly so each of us practiced a tleast a bit with everything (triggers, functions, transactions etc.).
 
-Our final documentation is here TODO.
+Our final documentation is here <a href="https://github.com/psp515/HealthyCowDatabase/blob/main/Specification.pdf">Specifination.pdf</a>.
+File contains all sql codes, short descripstions etc.
 
 ### Built With
 
