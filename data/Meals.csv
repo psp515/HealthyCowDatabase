@@ -1,0 +1,63 @@
+1,1,Homar,10,true
+2,1,Rybka wodna,10,true
+3,1,Krab,10,true
+4,1,Osmiorniczka,10,true
+5,2,Komar,10,false
+6,2,Kormoran,4,false
+7,3,Wiewiórka w sosie wlasnym,1,false
+8,3,Pies Gongbao,10,false
+9,4,Rosól,10,false
+10,4,Pomidorowa,10,false
+11,4,Krupnik,10,false
+12,4,Grzybowa,10,false
+13,4,Jarzynowa,10,false
+14,5,Pepsi,10,false
+15,5,Mirinda,10,false
+16,5,Fanta,10,false
+17,5,Woda,10,false
+18,5,Piwo,10,false
+19,5,Wino,10,false
+20,2,Krem z pomidorów,10,false
+21,2,Pieczarki faszerowane serem,15,false
+22,2,Salatka z grillowanym kurczakiem,12,false
+23,2,Tosty z awokado i jajkiem,8,false
+24,2,Crostini z pomidorami i mozzarella,5,false
+25,2,Plastry bialego sera z miodem,3,false
+26,2,Bruschetta z pomidorami i bazylia,10,false
+27,2,Salatka z ogórków i koperkiem,15,false
+28,2,Crostini z wedzonym lososiem,9,false
+29,2,Krem z cukinii i selera naciowego,6,false
+30,2,Tosty z maslem orzechowym i bananem,4,false
+31,2,Salatka z mango i kurczakiem,11,false
+32,2,Tosty z hummusem i warzywami,7,false
+33,2,Bruschetta z bialym serem i rukola,5,false
+34,2,Salatka z jajkiem i szynka,13,false
+35,2,Crostini z gorgonzola i figami,9,false
+36,2,Krem z fasoli i cebuli,8,false
+37,3,Piers z kurczaka zapiekana z serem,15,false
+38,3,Poledwiczki wieprzowe duszone w winie,5,false
+39,3,Schabowy ziemniaczany,10,false
+40,3,Kotlet mielony z cebula i pieczarkami,20,false
+41,3,Karkówka pieczona w piekarniku,25,false
+42,3,Gulasz z czerwonego miesa,15,false
+43,3,Kotlet po kijowsku,20,false
+44,3,Golonka pieczona w piwie,15,false
+45,3,Karkówka duszona z warzywami,10,false
+46,3,Schab wieprzowy duszony w sliwkach,15,false
+47,3,Piers z kurczaka zapiekana z pieczarkami i serem,20,false
+48,3,Kotlet z jajkiem sadzonym,15,false
+49,3,Gulasz z cielecego miesa,25,false
+50,3,Karkówka w sosie pieczeniowym,15,false
+51,3,Kotlet z kurczaka panierowany,20,false
+52,3,Poledwiczki wieprzowe zapiekane z serem,15,false
+53,3,Karkówka duszona w sosie paprykowym,25,false
+54,5,Sok pomaranczowy,35,false
+55,5,Kawa mrozona,15,false
+56,5,Herbata z cytryna,50,false
+57,5,Smoothie truskawkowe,20,false
+58,5,Napój z kokosa,10,false
+73,1,Grillowany homar z maslem cytrynowym,0,true
+74,1,Pieczone kalmary z czosnkiem i bialym winem,0,true
+75,1,Krewetki i kasza jaglana,0,true
+76,1,Chrupiace smazone kalmary z ostro-kremowym dipem,0,true
+77,1,Paella z owocami morza z safronem i groszkiem,0,true

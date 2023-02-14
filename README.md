@@ -34,7 +34,7 @@ Summarizing.
 Our task was to create databse for single restaurant. You are able to make reservations in restaurant, eat on the spot and takeaway (there is no delivery).
 Also restaurant provides 'special' menu avaliable in ceratain days. Btw menu is some kind of special because there is always 20 dish and menu is valid only if menu 2 weeks ago differs with actual by 10 meals.
 
-We splitted our job equaly so each of us practiced a tleast a bit with everything (triggers, functions, transactions etc.).
+We splitted our job equaly so each of us practiced a tleast a bit with everything (views,triggers, functions, transactions etc.).
 
 Our final documentation is here TODO.
 
