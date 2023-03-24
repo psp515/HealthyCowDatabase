@@ -1,0 +1,5 @@
+CREATE UNIQUE CLUSTERED INDEX Table
+ON Tables(size)
+
+CREATE NONCLUSTERED INDEX TablesSizes
+ON Tables(size)
